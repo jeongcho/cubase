@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GP-100>
+  <preset_info software="1.2.0" firmware="1.8" product="GP-100" count="1" platform="WINDOWS"
+               time="1720242940322"/>
+  <presets ppBank="0" ppName="Night2" ppVolume="52" ppID="4" ppBPM="135"
+           ppIRNum="27" ppType="6" ppAuthor="" ppNotes="" ppTypeName="Pop"
+           ppIRCRC="0" ppIRName="TWD 2x12">
+    <Effect effectModuleName="RVB" effectName="Plate" effectState="1" effectCode="201326595"
+            x="8" y="0" params_0="24.0" params_1="50" params_2="50" params_3="0"/>
+    <Effect effectModuleName="DLY" effectName="T-Echo" effectState="0" effectCode="184549387"
+            params_0="10" x="7" y="0" params_1="4" params_2="15" params_3="1.0"
+            params_4="0" params_5="2816" params_6="14592" params_7="0" params_8="0"
+            params_9="512" params_10="50" params_11="50" params_12="0" params_13="0"
+            params_14="0"/>
+    <Effect effectModuleName="MOD" effectName="B-Chorus" effectState="0"
+            effectCode="67108872" x="6" y="0" params_0="50" params_1="2.599999904632568"
+            params_2="50" params_3="0.0"/>
+    <Effect effectModuleName="EQ" effectName="EQ 1" effectState="1" effectCode="16777269"
+            params_0="0" x="5" y="0" params_1="2" params_2="10" params_3="8"
+            params_4="4" params_5="49" params_6="0" params_7="0" params_8="0"
+            params_9="0" params_10="50" params_11="50" params_12="0" params_13="0"
+            params_14="0"/>
+    <Effect effectModuleName="CAB" effectName="TWD 2x12" effectState="1"
+            effectCode="167772187" params_0="76" x="4" y="0" params_1="50"
+            params_2="0" params_3="0" params_4="0" params_5="0" params_6="25600"
+            params_7="100" params_8="0" params_9="0" params_10="50" params_11="50"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="NR" effectName="Gate 2" effectState="1" effectCode="29"
+            params_0="23" x="3" y="0" params_1="10" params_2="71" params_3="0"
+            params_4="256" params_5="65280" params_6="65535" params_7="65535"
+            params_8="65535" params_9="255" params_10="50" params_11="0"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="AMP" effectName="Bellman 59N" effectState="1"
+            effectCode="117440515" params_0="56.0" x="2" y="0" params_1="57.0"
+            params_2="53.0" params_3="39" params_4="50" params_5="50" params_6="50"
+            params_7="65535" params_8="255" params_9="0" params_10="50" params_11="257"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="DST" effectName="Super OD" effectState="1"
+            effectCode="50331654" params_0="59.0" x="1" y="0" params_1="68.0"
+            params_2="50" params_3="50" params_4="50" params_5="65535" params_6="65535"
+            params_7="65535" params_8="65535" params_9="65535" params_10="50"
+            params_11="50" params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="PRE" effectName="COMP  " effectState="1" effectCode="0"
+            params_0="29" x="0" y="0" params_1="50" params_2="0" params_3="0"
+            params_4="0" params_5="0" params_6="0" params_7="0" params_8="0"
+            params_9="0" params_10="0" params_11="0" params_12="0" params_13="0"
+            params_14="0"/>
+    <ppCtrl c11="65535" c12="1" c13="65535" c21="65535" c22="65535" c23="65535"/>
+    <ppEXP1 expTarget="0" expVolume="0" expVolumeMin="0" expVolumeMax="99">
+      <ppEXP1_0 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_1 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_2 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+    </ppEXP1>
+  </presets>
+</GP-100>
