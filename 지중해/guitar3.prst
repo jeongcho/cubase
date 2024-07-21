@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GP-100>
+  <preset_info software="1.2.0" firmware="1.8" product="GP-100" count="1" platform="WINDOWS"
+               time="1721528383611"/>
+  <presets ppBank="0" ppName=" Mediterran" ppVolume="50" ppID="6" ppBPM="120"
+           ppIRNum="12" ppType="7" ppAuthor="" ppNotes="" ppTypeName="Blues"
+           ppIRCRC="16777729" ppIRName="Studio 1x12">
+    <Effect effectModuleName="RVB" effectName="Plate" effectState="1" effectCode="201326595"
+            params_0="24" x="8" y="0" params_1="54" params_2="49" params_3="0"
+            params_4="65535" params_5="65535" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="DLY" effectName="Sweet" effectState="0" effectCode="184549389"
+            params_0="16" x="7" y="0" params_1="213" params_2="15" params_3="0"
+            params_4="0" params_5="65535" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="MOD" effectName="A-Chorus" effectState="0"
+            effectCode="67108864" params_0="50" x="6" y="0" params_1="0.5"
+            params_2="50" params_3="0" params_4="65535" params_5="65535"
+            params_6="65535" params_7="65535" params_8="65535" params_9="65535"
+            params_10="65535" params_11="65535" params_12="0" params_13="0"
+            params_14="0"/>
+    <Effect effectModuleName="EQ" effectName="EQ 1" effectState="0" effectCode="16777269"
+            params_0="0" x="5" y="0" params_1="0" params_2="0" params_3="0"
+            params_4="0" params_5="50" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="CAB" effectName="Studio 1x12" effectState="1"
+            effectCode="167772172" params_0="50" x="4" y="0" params_1="40"
+            params_2="65535" params_3="65535" params_4="65535" params_5="65535"
+            params_6="65535" params_7="65535" params_8="65535" params_9="65535"
+            params_10="65535" params_11="65535" params_12="0" params_13="0"
+            params_14="0"/>
+    <Effect effectModuleName="NR" effectName="Gate 2" effectState="1" effectCode="29"
+            params_0="19" x="3" y="0" params_1="41" params_2="49" params_3="65535"
+            params_4="65535" params_5="65535" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="AMP" effectName="Foxy 30TB" effectState="1"
+            effectCode="117440551" params_0="46.0" x="2" y="0" params_1="50"
+            params_2="59.0" params_3="50" params_4="55" params_5="1" params_6="49"
+            params_7="65535" params_8="65535" params_9="65535" params_10="65535"
+            params_11="65535" params_12="0" params_13="0" params_14="0"/>
+    <Effect effectModuleName="DST" effectName="Yellow OD" effectState="0"
+            effectCode="50331650" params_0="72" x="1" y="0" params_1="56.0"
+            params_2="50" params_3="65535" params_4="65535" params_5="65535"
+            params_6="65535" params_7="65535" params_8="65535" params_9="65535"
+            params_10="65535" params_11="65535" params_12="0" params_13="0"
+            params_14="0"/>
+    <Effect effectModuleName="PRE" effectName="V-Wah" effectState="0" effectCode="83886081"
+            params_0="50" x="0" y="0" params_1="50" params_2="50" params_3="65535"
+            params_4="65535" params_5="65535" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
+    <ppCtrl c11="1" c12="65535" c13="65535" c21="65535" c22="65535" c23="8"/>
+    <ppEXP1 expTarget="0" expVolume="0" expVolumeMin="0" expVolumeMax="99">
+      <ppEXP1_0 expMId="0" expCode="83886081" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_1 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_2 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+    </ppEXP1>
+  </presets>
+</GP-100>
